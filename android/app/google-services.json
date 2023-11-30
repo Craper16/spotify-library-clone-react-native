@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "620176900200",
+    "project_id": "openai-1375a",
+    "storage_bucket": "openai-1375a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:b9bfe9f6831d1c9e38bbdd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:e577a4f13e1518e438bbdd",
+        "android_client_info": {
+          "package_name": "com.georgio.healthtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-2mh520a80uffj1kps3l0umq5c9gq5nvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgio.healthtesting",
+            "certificate_hash": "46b5191b349f58da8ae03175e10e9cff10dd60b5"
+          }
+        },
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:140bc596bb755d9938bbdd",
+        "android_client_info": {
+          "package_name": "com.georgio.spoticlone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-njc7hb762nprif0obguk295elacnetee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgio.spoticlone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:b6dee137686abd3338bbdd",
+        "android_client_info": {
+          "package_name": "com.georgio.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-tghmpm6uhifajk8spmigtuq168l0s9nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgio.testing",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:ccae77c2555e3ae838bbdd",
+        "android_client_info": {
+          "package_name": "com.georgiomia.mia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-2d8nsej6to399693klh8ckmqof77ek4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgiomia.mia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620176900200:android:c4ea12740e95d08838bbdd",
+        "android_client_info": {
+          "package_name": "com.purplebrains.mia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620176900200-n4hav0tk17q5bsimn10cq5htn85ka79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPp6iRN-zJ-JI8YIShP5Po8ulFdnuwFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620176900200-4o4j9fha1lqi1gajpqc12f8c6scvoi16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620176900200-5gutc01jbga3u40s6q8dnvhjujvr20mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgio.testing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
